@@ -1,0 +1,5 @@
+/* Admin CSS Here
+*/
+.pro-only-typo .csf--blocks-selects , .pro-only-typo .csf--blocks-inputs{
+    display: none !important;
+}
